@@ -1,3 +1,3 @@
 # WebScrapingPythonKoc
 
-[Rest Api](https://github.com/dogukan1047/RestAPi)
+[Rest Api Golang](https://github.com/dogukan1047/RestAPi)
